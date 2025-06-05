@@ -31,6 +31,7 @@ jobs:
     outputs:
       commit_id: ${{ env.COMMIT_ID }}
 
+
   # cd:
   #   needs: ci
   #   runs-on: self-hosted
