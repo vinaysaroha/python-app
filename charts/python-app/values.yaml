@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: vinayrhcsacertified/python-app
   pullPolicy: IfNotPresent
-  tag: dfe8b7
+  tag: 5b0f04
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
